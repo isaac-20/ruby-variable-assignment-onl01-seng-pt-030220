@@ -2,7 +2,7 @@
 
 ## Objectives
 
-1. Assign a local variale.
+1. Assign a local variable.
 
 ## Instructions
 
